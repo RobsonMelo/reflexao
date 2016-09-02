@@ -1,0 +1,33 @@
+Como é que a visualização de uma diff entre duas versões de um arquivo de ajuda que você vê o erro que
+foi introduzido?
+
+    Preencha aqui a sua resposta
+
+Como poderia ter fácil acesso a todo o histórico de um arquivo torná-lo um mais
+programador eficientes a longo prazo?
+
+    Preencha aqui a sua resposta
+
+O que você acha que são os prós e contras da escolha manualmente quando criar uma
+cometer, como você faz no Git, vs ter versões salvas automaticamente, como o Google
+docs faz?
+
+    Preencha aqui a sua resposta
+
+Porque você acha que alguns sistemas de controle de versão, como Git, permitem economia de múltipla
+arquivos em um commit, enquanto outros, como o Google Docs, tratar cada arquivo separadamente?
+
+    Preencha aqui a sua resposta
+
+Como você pode usar o log de comandos git e git diff para ver o histórico de arquivos?
+
+    Preencha aqui a sua resposta
+
+Como pode usar o controle de versão de torná-lo mais confiante para fazer as mudanças que
+poderia quebrar alguma coisa?
+
+    Preencha aqui a sua resposta
+
+Agora que você tem seu espaço de trabalho criados, o que você quer tentar usar Git para?
+
+    Preencha aqui a sua resposta
