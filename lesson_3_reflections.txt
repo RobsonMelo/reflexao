@@ -1,4 +1,4 @@
-Quando você quiser usar um repositório remoto em vez de manter todo o seu trabalho
+﻿Quando você quiser usar um repositório remoto em vez de manter todo o seu trabalho
 local?
 
     Preencha aqui a sua resposta
@@ -27,3 +27,5 @@ Quando você quiser fazer alterações em um ramo separado ao invés de diretame
 dominar? Quais os benefícios que cada abordagem tem?
 
     Preencha aqui a sua resposta
+
+Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
